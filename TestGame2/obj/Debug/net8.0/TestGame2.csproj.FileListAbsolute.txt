@@ -1,0 +1,14 @@
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\bin\Debug\net8.0\TestGame2.exe
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\bin\Debug\net8.0\TestGame2.deps.json
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\bin\Debug\net8.0\TestGame2.runtimeconfig.json
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\bin\Debug\net8.0\TestGame2.dll
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\bin\Debug\net8.0\TestGame2.pdb
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\TestGame2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\TestGame2.AssemblyInfoInputs.cache
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\TestGame2.AssemblyInfo.cs
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\TestGame2.csproj.CoreCompileInputs.cache
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\TestGame2.dll
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\refint\TestGame2.dll
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\TestGame2.pdb
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\TestGame2.genruntimeconfig.cache
+C:\Users\Klaudusia Skowyrka\source\repos\TestGame2\TestGame2\obj\Debug\net8.0\ref\TestGame2.dll
